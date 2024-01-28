@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunklliga_connecting"]=self["webpackChunklliga_connecting"]||[]).push([[443],{9817:function(n,u,a){a.r(u),a.d(u,{default:function(){return f}});var c=a(3396);const e={class:"about"},t=(0,c._)("h1",null,"TPon aqui otra cosa, lo que quieras",-1),r=[t];function i(n,u){return(0,c.wg)(),(0,c.iD)("div",e,r)}var o=a(89);const l={},s=(0,o.Z)(l,[["render",i]]);var f=s}}]);
-//# sourceMappingURL=about.adbd076b.js.map
